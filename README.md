@@ -51,7 +51,7 @@ The full form of an ARM is an advanced reduced instruction set computer (RISC) m
 
 
 ## STM 32 CUBE PROGRAM :
-```
+```C
 NAME : CHARUMATHI R
 REFNO : 212222240021
 
@@ -163,9 +163,14 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 
 ## Output  :
- ![LED OFF WHILE BLINKIN PMCEXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/97c39ef2-3b8d-4e1e-8296-38bf28e0dbaa)
+![LED OFF PMC EXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/08b0e724-999e-4ceb-8df8-5e3fd846a7c8)
+
+![LED ON WHILE BLINKING NEW PMC EXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/b57d0436-55c0-4528-b39e-77c6ef8f9f1e)
+
+
+
 ![LED OFF WHILE BLINKIN PMCEXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/f2431dfc-58a8-48e2-98ef-3b899363609a)
-![LED OFF PMC EXP2](https://github.com/charumathiramesh/EXPERIMENT--02-INTEFACING-A-DIGITAL-INPUT-TO-ARM-DEVELOPMENT-BOARD/assets/120204455/3903e518-d643-4f01-b0a9-946c11acf658)
+
 
  
  
